@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,C++,Machine learning.**
 
-- 💬 Ask me about **machine learning, web development, or programming in Python. I can also help computer networks and graphic design.**
+- 💬 Ask me about **machine learning, web development, or programming in Python. I can also help with computer networks and graphic design.**
 
 - 📫 How to reach me **abhishek.kumar.nitd@gmail.com**
 
