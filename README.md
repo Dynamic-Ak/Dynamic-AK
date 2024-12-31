@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smart Toll System](http://dynamicak.lovestoblog.com/)
 
-- 🌱 I’m currently learning **Python,C++,Machine learning.**
+- 🌱 I’m currently learning **Python,C/C++,Machine learning.**
 
 - 💬 Ask me about **machine learning, web development, or programming in Python. I can also help with computer networks and graphic design.**
 
