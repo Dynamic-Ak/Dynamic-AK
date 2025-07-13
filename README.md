@@ -53,7 +53,7 @@
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/> GitHub<br>
       <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="30"/> VS Code<br>
-      <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="30"/> Google Colab<br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="30"/> Google Colab<br>
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/> Arduino<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux<br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30"/> MATLAB<br>
@@ -62,7 +62,9 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> Google Cloud Platform<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> MySQL<br>
-      PostgreSQL, SQLite, Google Sheets
+      PostgreSQL, <br>
+      SQLite, <br>
+      Google Sheets
     </td>
   </tr>
 </table>
