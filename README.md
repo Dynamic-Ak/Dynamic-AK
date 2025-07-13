@@ -57,7 +57,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/> Arduino<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux<br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30"/> MATLAB<br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canva_Logo.png" width="30"/> Canva
+       Canva
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> Google Cloud Platform<br>
