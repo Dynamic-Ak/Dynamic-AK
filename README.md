@@ -4,24 +4,7 @@
 ---
 
 ### 🚀 Projects
-
-- **Smart Toll System**  
-  YOLOv8-based number plate recognition, GPS toll calculation, real-time alerts with a responsive web interface.
-
-- **ABS GUI**  
-  Python desktop application bundling a Snake Game, Notepad, Newsletter, Form, and Calculator.
-
-- **TODO Web App**  
-  Full-stack task manager using Flask, SQLAlchemy, Jinja2, and Bootstrap.
-
-- **Voice Assistant for PC**  
-  A Python-based voice assistant using speech recognition, TTS, and OS automation.
-
-- **Aerozenith**  
-  Upgraded drone powered by Arduino Nano, GPS, and advanced flight stability controls.
-
----
-
+<h1> Check my repo for good projects and try in your device </h1>
 ### 🛠️ Technical Skills
 
 <table align="center">
