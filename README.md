@@ -5,6 +5,9 @@
 
 ### 🚀 Projects
 <h1> Check my repo for good projects and try in your device </h1>
+
+---
+
 ### 🛠️ Technical Skills
 
 <table align="center">
@@ -40,13 +43,13 @@
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/> Arduino<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux<br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30"/> MATLAB<br>
-       Canva
+      Canva
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> Google Cloud Platform<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> MySQL<br>
-      PostgreSQL, <br>
-      SQLite, <br>
+      PostgreSQL<br>
+      SQLite<br>
       Google Sheets
     </td>
   </tr>
@@ -79,3 +82,18 @@
 - **💻 LeetCode:** [abhishek_kumar_nitd](https://leetcode.com/abhishek_kumar_nitd)
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dynamic-ak&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamic-ak&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dynamic-ak&theme=onedark&row=1&column=7" alt="GitHub Trophies"/>
+</p>
