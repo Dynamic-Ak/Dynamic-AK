@@ -83,15 +83,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dynamic-ak&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamic-ak&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
