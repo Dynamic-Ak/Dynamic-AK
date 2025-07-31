@@ -78,7 +78,7 @@
 - **📧 Email:** [abhishek.kumar.nitd@gmail.com](mailto:abhishek.kumar.nitd@gmail.com)  
 - **🌐 Portfolio:** [dynamic-ak.github.io/portfolio](https://dynamic-ak.github.io/portfolio)  
 - **🔗 LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-nit-d)  
-- **▶️ YouTube:** [@AbhishekKumar-NITdelhi](https://www.youtube.com/@AbhishekKumar-NITdelhi)  
+- **▶️ YouTube:** [@dynamicak-NITdelhi](https://www.youtube.com/@dynamicak-NITdelhi)  
 - **💻 LeetCode:** [abhishek_kumar_nitd](https://leetcode.com/abhishek_kumar_nitd)
 
 ---
