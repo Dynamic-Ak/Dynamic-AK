@@ -77,7 +77,6 @@ Each project focuses on **real-world use cases, clean architecture, and performa
 ## 📫 Contact
 
 - 📧 **Email:** abhishek.kumar.nitd@gmail.com  
-- 🌐 **Portfolio:** https://dynamic-ak.github.io/portfolio  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/abhishek-kumar-nit-d  
 - ▶️ **YouTube:** https://www.youtube.com/@dynamicak-allyours 
 - 💻 **LeetCode:** https://leetcode.com/abhishek_kumar_nitd  
