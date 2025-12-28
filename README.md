@@ -83,6 +83,3 @@ Each project focuses on **real-world use cases, clean architecture, and performa
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dynamic-ak&theme=onedark&row=1&column=6" />
-</p>
