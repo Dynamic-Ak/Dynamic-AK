@@ -18,6 +18,5 @@ Data Engineer with hands-on experience building scalable data pipelines, impleme
 
 ### Connect with Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Portfolio](YOUR_PORTFOLIO_URL)
+- [LinkedIn](linkedin.com/in/abhishek-kumar-nit-delhi)
 - [Email](mailto:abhishek.kumar.nitd@gmail.com)
